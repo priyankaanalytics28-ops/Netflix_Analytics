@@ -19,4 +19,4 @@ Includes key performance insights such as:
 ## 🎯 Purpose
 This report helps uncover Netflix content patterns and supports **data-driven decision-making** through interactive and visually rich dashboards.
 
-📂 Feel free to explore the `.pbix` file and adapt it for your own analytics projects.
+
